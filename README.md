@@ -18,6 +18,7 @@ This game will feature:
 Win condition: be the last player remaining.
 
 IF I have time I would like to implement additional features such as:  
+
 -AI character depth with possible lines to say to the player (showing possible tells)  
   -possible set player responses?  
 -implemented in a 3D environment (with unity's help)  
